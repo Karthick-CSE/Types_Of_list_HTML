@@ -1,3 +1,6 @@
+📄 HTML Lists
+HTML provides two main types of lists to organize content on web pages. These lists are useful for structuring information like tasks, instructions, or menu items.
+
 TYPES OF LIST
 
 * Unordered List:
